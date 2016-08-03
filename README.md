@@ -1,1 +1,3 @@
 # first
+Hi,
+I never went to art school. I loved to paint when I was a kid, but I went to university thinking I would become an engineer. That lasted for a ...........
